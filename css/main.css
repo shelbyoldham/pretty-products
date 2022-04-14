@@ -57,6 +57,7 @@ ul li:first-child {
 ul a {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 ul img {
